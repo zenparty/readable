@@ -7,7 +7,11 @@
   </div>
 
 <div class="inner cover post post-body">
-{{excerpt}}<a href="{{url}}">...</a>
+  
+  <p>{{excerpt}}</p>
+  
+  <a href="{{url}}"><time datetime="{{date published_at format="YYYY-MM-DD"}}">{{date published_at format="DD MMMM YYYY"}}</time></a>
+
 </div>
 {{/foreach}}
 
