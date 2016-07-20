@@ -1,8 +1,12 @@
-# Readable
+# Child Theme for Readable
+
+I've made some small refinements to this theme, all of which are contained in this repo. See original licensing information below.
+
+## Readable
 
 A minimalist theme for [Ghost](http://github.com/tryghost/ghost/).
 
-## Copyright & License
+## Readable Copyright & License
 
 Copyright (c) 2015 Johel Alvarez - Released under the MIT License.
 
